@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+#sec-article {
+	position: relative;
+	margin-top: 20px;
+	display: block;
+}
+.col li {
+	 display: inline-block;
+}
+.col li i {
+	margin-right: 5px;
+	font-size: 12px!important;
+}
+#sec-article .img-thumbnail {
+	width: 380px;
+	height: 250px;
+}
+#sec-article #article-text {
+	text-align: justify;
+}
+
+
+
+@media only screen and (max-width: 560px) {
+  #header {
+    height: 60vh;
+  }
+  #sec-article {
+  	margin: 0 auto!important;
+  }
+}
