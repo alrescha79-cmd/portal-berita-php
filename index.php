@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>beriTA | <?= $_GET['page'] ?></title>
 
-    <link rel="stylesheet" href="assets/css/bootstrap-grid.css">
-    <link rel="stylesheet" href="assets/css/bootstrap-reboot.css">
-    <link rel="stylesheet" href="assets/css/bootstrap-utilities.css">
-    <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap-utilities.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/ionicons.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
